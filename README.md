@@ -14,11 +14,11 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Two outcomes that can be concluded from the outcomes based on launch date are that campaigns which are started in May and June are far more likely to succeed than they are to fail. Also, campaigns that are launched in December have a near equal chance at success or failure. 
 
-- What can you conclude about the Outcomes based on Goals?
+- A conclusion to be made on outcomes based on goals is that campaigns with a funding goal of $5000 or less are far more likely to be successful than they are to fail. As the goal gets higher, specifically over $10,000, it becomes less certain that the campaign will be successful. 
 
-- What are some limitations of this dataset?
+- Some limitations of this dataset are a handful of outliers where the goal for the campaign is excessively high and the pledged amount is negligible.
 
-- What are some other possible tables and/or graphs that we could create?
+- Another possible table to create would be one that shows Outcomes based on location of the campaign. 
 
