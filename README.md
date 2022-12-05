@@ -1,11 +1,8 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends  
-
 # Kickstarting with Excel
 
 ## Overview of Project
 
-### Purpose
+### The purpose of this analysis is to present information to an up-and-coming playwright who wants to use a crowdfuding campaign to fund her play. We will use several forms of data analytics to present charts and graphs that will better prepare the playwright to ensure a successful campaign.
 
 ## Analysis and Challenges
 
