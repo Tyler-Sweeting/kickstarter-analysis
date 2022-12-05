@@ -8,9 +8,15 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+#### here
+
 ### Analysis of Outcomes Based on Goals
 
+#### here
+
 ### Challenges and Difficulties Encountered
+
+#### The Challenges I faced while working on this project were mostly in getting comfortable with new functions in excel. I am still getting more consistent with working with filters, and getting faster at organizing them and clearing them. The most difficult part for me was the counsif function, as I tried to get that one through trial and error and learning on my own. 
 
 ## Results
 
