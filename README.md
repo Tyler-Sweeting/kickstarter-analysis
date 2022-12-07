@@ -8,11 +8,13 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### ! ("C:\Users\Sweetingt\Desktop\Analysis_Projects\Crowdfunding Analysis\resources\Theater_Outcomes_vs_Launch.png")
+#### ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/118485409/206084421-d2a89f9e-0ead-46db-b19b-a34231e8500b.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
-#### here
+#### ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/118485409/206084489-60d0620d-7829-4826-8401-37e3bbd6e780.png)
+
 
 ### Challenges and Difficulties Encountered
 
