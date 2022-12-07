@@ -8,12 +8,14 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/118485409/206084421-d2a89f9e-0ead-46db-b19b-a34231e8500b.png)
+#### This is a Line chart analyzing how each month performs for theater campaigns. Showing Successful, failed and cancelled results.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/118485409/206084421-d2a89f9e-0ead-46db-b19b-a34231e8500b.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
-#### ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/118485409/206084489-60d0620d-7829-4826-8401-37e3bbd6e780.png)
+#### A line chart comparing the success and fail rate of campaigns based on their goal they set for themselves.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/118485409/206084489-60d0620d-7829-4826-8401-37e3bbd6e780.png)
 
 
 ### Challenges and Difficulties Encountered
