@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### here
+#### ! ("C:\Users\Sweetingt\Desktop\Analysis_Projects\Crowdfunding Analysis\resources\Theater_Outcomes_vs_Launch.png")
 
 ### Analysis of Outcomes Based on Goals
 
